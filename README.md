@@ -96,7 +96,7 @@ python android_file_manager_pyqt6.py
 
 ## How It Works
 
-This application uses ADB (Android Debug Bridge) commands under the hood, but wraps them in an intuitive graphical interface. No need to remember complex command-line syntax - just click and drag!
+This application uses ADB (Android Debug Bridge) commands under the hood, but wraps them in an intuitive graphical interface. No need to remember complex command-line syntax - just click and viola!
 
 **Key technologies:**
 - **PyQt6**: Modern Python GUI framework
