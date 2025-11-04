@@ -1,0 +1,2 @@
+# GUI Framework for PyQt6 version
+PyQt6>=6.6.0
