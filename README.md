@@ -33,7 +33,8 @@ I found myself constantly uploading files to cloud storage and then re-downloadi
 
 ## Screenshots
 
-*Coming soon - Screenshots will be added here*
+<img width="1209" height="833" alt="image" src="https://github.com/user-attachments/assets/8f224e6d-faf8-44e9-8c5c-1e97b5c58cf7" />
+
 
 ## Requirements
 
